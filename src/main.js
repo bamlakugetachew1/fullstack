@@ -40,7 +40,7 @@ function getHeaders() {
 //const token = window.localStorage.getItem("apollo-token");
 const apolloClient = new ApolloClient({
   cache,
-  uri: "http://localhost:8080/v1/graphql",
+  uri: "https://contact-applications.herokuapp.com/v1/graphql",
   
   /*
   headers:{
