@@ -1,4 +1,6 @@
 # vue-graphql-demo
+the complete project hosted on netlify
+https://moonlit-florentine-2536c8.netlify.app/
 
 ## Project setup
 ```
